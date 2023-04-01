@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Narseesaw.
-- 👀 I’m interested in Python and 
+- 👀 I’m interested in Python and AI and ML.
 - 🌱 I’m currently learning some advanced PYTHON tutorials.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Find me on instagram as "LiveCodeLearner".
