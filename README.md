@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Narseesaw.
-- 👀 I’m interested in Python and AI and ML.
-- 🌱 I’m currently learning some advanced PYTHON and MATLAB tutorials.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Find me on instagram as "LiveCodeLearner".
+- Hi, I’m @Narseesaw.
+- I’m interested in Python, AI, and ML.
+- 🌱 I’m currently learning some C# and MATLAB tutorials.
+- How do you reach me? Find me on Instagram as "LiveCodeLearner".
 
 <!---
 Narseesaw/Narseesaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
